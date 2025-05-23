@@ -1,7 +1,7 @@
 # Halo! 👋
 
-Nama lengkap saya **Wahyu Mahmudiyanto**, tapi kamu bisa panggil saya “Wahyu” atau “bro” aja biar akrab 😄  
-Saat ini saya bekerja sebagai **SEO Specialist** secara full-time, tapi di sela waktu luang saya belajar dan mengerjakan proyek freelance kecil-kecilan di bidang **Web Development**. Impian saya jelas: jadi **Fullstack Web Developer** yang bisa bangun website dari nol — dari frontend kece sampai backend yang fungsional.
+Saya **Wahyu Mahmudiyanto**, tapi biasa panggil saya “Wahyu” atau “bro” aja biar akrab 😄  
+Saat ini saya bekerja sebagai **SEO Specialist** secara full-time, tapi di sela waktu luang saya belajar dan mengerjakan proyek freelance kecil-kecilan di bidang **Web Development**. Impian saya ingin menjadi **Fullstack Web Developer** yang bisa bangun website dari nol — dari frontend kece sampai backend yang fungsional.
 
 ---
 
@@ -30,7 +30,6 @@ Saya percaya, gabungan antara SEO dan skill coding bisa jadi kekuatan besar untu
 
 ## 🚀 Hubungi Saya
 🌐 Portofolio: [wahyu043.github.io](https://wahyu043.github.io/wahyumahmudi/)    
-📮 Email: [wahyu.mahmudi43@gmail.com](mailto:wahyu.mahmudi43@gmail.com)  
-📍 Domisili: Yogyakarta, Indonesia  
+📮 Email: [wahyu.mahmudi43@gmail.com](mailto:wahyu.mahmudi43@gmail.com)    
 
 ---
