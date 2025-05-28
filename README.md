@@ -1,4 +1,4 @@
-<img src="https://github.com/wahyu043/wahyu043/blob/main/banner-github.png?raw=true" alt="Photo by Joshua Reddekopp on Unsplash" />
+<img src="https://github.com/wahyu043/wahyu043/blob/main/baner-github.png?raw=true" alt="Photo by Joshua Reddekopp on Unsplash" />
 
 # Halo! 👋
 
