@@ -33,7 +33,7 @@ Saya percaya, gabungan antara SEO dan skill coding bisa jadi kekuatan besar untu
 
 ## 🚀 Hubungi Saya
 
-🌐 Portofolio: [wahyu043.github.io](https://wahyu043.github.io/wahyumahmudi/)  
+🌐 Portofolio: [Beranda Wahyu](https://wahyu043.github.io/wahyumahmudi/)  
 📮 Email: [wahyu.mahmudi43@gmail.com](mailto:wahyu.mahmudi43@gmail.com)
 
 ---
