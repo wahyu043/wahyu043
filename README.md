@@ -1,6 +1,6 @@
 # Halo! 👋
 
-Saya **Wahyu Mahmudiyanto**, tapi biasa panggil saya “Wahyu” atau “bro” aja biar akrab 😄  
+Saya **Wahyu Mahmudiyanto**, tapi bisa dipanggil “Wahyu” atau “bro” aja biar akrab 😄  
 Saat ini saya bekerja sebagai **SEO Specialist** secara full-time, tapi di sela waktu luang saya belajar dan mengerjakan proyek freelance kecil-kecilan di bidang **Web Development**. Impian saya ingin menjadi **Fullstack Web Developer** yang bisa bangun website dari nol — dari frontend kece sampai backend yang fungsional.
 
 ---
